@@ -10,7 +10,7 @@ This repository supplements the following publication:
 
 ### Setup
 
-A recent version of [Julia](https://julialang.org/downloads/) needs to be installed on your system (Julia 1.11.5 was used for development).
+A recent version of [Julia](https://julialang.org/install/) needs to be installed on your system (Julia 1.11.5 was used for development).
 
 Launch the Julia interpreter within this directory and type `]` to enter the package manager.
 Activate the environment and install the required packages as follows:
