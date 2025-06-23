@@ -3,7 +3,7 @@
 This repository supplements the following publication:
 
 **Determining the chemical potential via universal density functional learning**  
-*Florian Sammüller and Matthias Schmidt.*
+*Florian Sammüller and Matthias Schmidt; [arXiv:2506.15608](https://arxiv.org/abs/2506.15608).*
 
 
 ## Instructions
@@ -27,7 +27,7 @@ Type backspace to exit the package manager.
 Download and extract pregenerated datasets, models and predictions (~700MB):
 
 ```julia
-include("get_data.jl")
+include("get_data.jl");
 ```
 
 ### Usage
