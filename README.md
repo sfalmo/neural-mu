@@ -3,7 +3,7 @@
 This repository supplements the following publication:
 
 **Determining the chemical potential via universal density functional learning**  
-*Florian Sammüller and Matthias Schmidt; [arXiv:2506.15608](https://arxiv.org/abs/2506.15608).*
+*Florian Sammüller and Matthias Schmidt, [Phys. Rev. Lett. **136**, 068202](https://doi.org/10.1103/7bqn-y2d7) (2026); [arXiv:2506.15608](https://arxiv.org/abs/2506.15608).*
 
 
 ## Instructions
